@@ -5,7 +5,7 @@ Combinatorial Games are two-person games with [perfect information](https://en.w
 Combinatorial Game Theory (CGT) is study of [sequential games](https://en.wikipedia.org/wiki/Sequential_game) with perfect information. In CGT, we deal with two types of games.
   - [Partisan Game](https://en.wikipedia.org/wiki/Partisan_game)
       - Possible moves from any position of game are different for different players. i.e. From some possible positions, some moves are restricted for some players.
-      - e.g. Chess
+      - e.g. [Chess](https://en.wikipedia.org/wiki/Chess)
       - Sprague-Grundy Theorem fails for partisan games.
   - [Impartial Game](https://en.wikipedia.org/wiki/Impartial_game)
       - All the possible moves from any position of game are same for all the players.
