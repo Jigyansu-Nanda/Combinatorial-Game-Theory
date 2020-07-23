@@ -9,4 +9,4 @@ Combinatorial Game Theory (CGT) is study of [sequential games](https://en.wikipe
       - Sprague-Grundy Theorem fails for partisan games.
   - [Impartial Game](https://en.wikipedia.org/wiki/Impartial_game)
       - All the possible moves from any position of game are same for all the players.
-      - e.g. Nim, Sprouts, Cram etc.
+      - e.g. [Nim](https://en.wikipedia.org/wiki/Nim), [Sprouts](https://en.wikipedia.org/wiki/Sprouts_(game)), [Cram](https://en.wikipedia.org/wiki/Cram_(game)) etc.
